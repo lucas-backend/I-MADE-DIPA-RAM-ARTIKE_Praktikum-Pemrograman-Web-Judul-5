@@ -28,11 +28,11 @@ Content-Type: application/json
 Accept: application/json
 
 {
-  "nim": "240101088",
-  "nama": "Rizky Ramadhan",
+  "nim": "2415061001",
+  "nama": "I Made Dipa Rama",
   "program_studi": "Teknik Informatika",
   "angkatan": 2024,
-  "email": "rizky.ramadhan@example.com"
+  "email": "lucasbackend@example.com"
 }
 
 ###
